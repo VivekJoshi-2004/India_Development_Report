@@ -202,4 +202,5 @@ st.markdown("---")
 st.markdown("""
 **📍 Dashboard by Vivek Joshi**  
 _Data Source: World Bank, Sector Reports, India Indicators_
+[Github Link](https://github.com/VivekJoshi-2004/India_Development_Report)
 """)
