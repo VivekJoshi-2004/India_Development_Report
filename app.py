@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 # Load data
 @st.cache_data
 def load_data():
-    return pd.read_csv(r"C:\Users\newt4\OneDrive\Desktop\India's_Development_Report\df_scores.csv")
+    return pd.read_csv(r"df_scores.csv")
 
 df = load_data()
 sectors = ['Economy', 'Education', 'Health', 'Infrastructure', 'Environment']
