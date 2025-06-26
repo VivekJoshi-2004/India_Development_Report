@@ -40,8 +40,8 @@ The project distills thousands of raw indicators into intuitive visualizations t
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/your-username/india-sector-dashboard.git
-cd india-sector-dashboard
+git clone https://github.com/VivekJoshi-2004/India_Development_Report
+cd india-development-report-dashboard
 ```
 2. **Install dependencies:**
 ```bash
